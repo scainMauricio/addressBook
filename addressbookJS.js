@@ -23,7 +23,7 @@ window.onload = function () {
         $("#addform").slideUp("slow", "linear");
     }
 
-
+    //small update to test git
     function saveContact(e) {
 
         var newFirstName = $("#firstName").val();
