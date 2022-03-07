@@ -22,8 +22,8 @@ window.onload = function () {
         e.preventDefault();
         $("#addform").slideUp("slow", "linear");
     }
-
-    //small update to test git
+    //teste para merge
+    
     function saveContact(e) {
 
         var newFirstName = $("#firstName").val();
