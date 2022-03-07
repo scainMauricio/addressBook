@@ -23,7 +23,7 @@ window.onload = function () {
         $("#addform").slideUp("slow", "linear");
     }
     //teste para merge
-    
+    //novo teste
     function saveContact(e) {
 
         var newFirstName = $("#firstName").val();
